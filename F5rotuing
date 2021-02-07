@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T00:51:39.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="8goHX-MX3rfrpz-zQAvs" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-07T00:52:31.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OEfWX5-rDas_n4Yc8elt" version="14.2.9" type="github" pages="3">
   <diagram id="xagNL14Ye1KkbwuRZvEL" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,12 +130,6 @@
         </mxCell>
         <mxCell id="EeN87jBGNoGksqGO6jOZ-34" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Conexión HA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EeN87jBGNoGksqGO6jOZ-1">
           <mxGeometry x="306" y="323" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EeN87jBGNoGksqGO6jOZ-35" value="&lt;span lang=&quot;ES-EC&quot; style=&quot;font-size: 10.0pt ; font-family: &amp;#34;segoe&amp;#34;&quot;&gt;viprionF51.cne.gob.ec&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EeN87jBGNoGksqGO6jOZ-1">
-          <mxGeometry x="251" y="220" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EeN87jBGNoGksqGO6jOZ-36" value="&lt;span lang=&quot;ES-EC&quot; style=&quot;font-size: 10.0pt ; font-family: &amp;#34;segoe&amp;#34;&quot;&gt;viprionF52.cne.gob.ec&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EeN87jBGNoGksqGO6jOZ-1">
-          <mxGeometry x="248" y="430" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EeN87jBGNoGksqGO6jOZ-37" value="VLAN06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;" vertex="1" parent="EeN87jBGNoGksqGO6jOZ-1">
           <mxGeometry x="420" y="278" width="60" height="20" as="geometry" />
